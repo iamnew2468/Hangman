@@ -1,4 +1,5 @@
 # Hangman
 A terminal based hangman game
 
-<This is so simple to setup >
+In this we are using words from the words.py file
+
